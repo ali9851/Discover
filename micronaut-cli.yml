@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.exist
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [app-name, cache-caffeine, data, data-jpa, gitlab-workflow-ci, graalvm, gradle, h2, http-client, http-client-test, java, java-application, jdbc-hikari, junit, junit-platform-suite-engine, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, openapi, properties, readme, security-annotations, security-oauth2, serialization-jackson, shade, slf4j-simple-logger, spring, spring-boot, spring-data-jpa, spring-web, swagger-ui, tracing-opentelemetry-annotations, tracing-opentelemetry-exporter-jaeger, tracing-opentelemetry-http, tracing-opentelemetry-jaeger]
